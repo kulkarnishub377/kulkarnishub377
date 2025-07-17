@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello!+I'm+Shubham+Kulkarni;Electronics+%26+Telecom+Engineer;Jr.+Software+Developer;Open+Source+Enthusiast"/>
 </div>
@@ -12,33 +11,26 @@
   <a href="https://wa.me/+918308003684"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp"/></a>
 </div>
 
----
+
+# 👋 Hi, I'm Shubham Kulkarni
+
+> **Electronics & Telecommunication Engineer | Full-Stack Developer | IoT & Embedded Systems Enthusiast**
+
 
 ## 📝 Summary
 
-Innovative and result-oriented Electronics and Telecommunication Engineering student with a strong foundation in embedded systems, IoT, and electro-mechanical product development. Demonstrated expertise in designing and implementing smart automation solutions, most notably the Smart Irrigation System that earned University Rank 2 in the SPPU Startup Olympiad 2025. Skilled in integrating hardware (Raspberry Pi, sensors) with software (Python, APIs, ML) to build scalable, intelligent systems. A quick learner with a passion for technology, R&D, and product innovation.
+Innovative and result-oriented engineer with a passion for building intelligent automation solutions and bridging hardware with software. Awarded AIR-1 at Smart India Hackathon 2023 and University Rank 2 at SPPU Startup Olympiad 2025. Skilled in embedded systems, IoT, full-stack development, and cloud technologies. Quick learner, open-source contributor, and dedicated to impactful R&D.
 
----
 
 ## 🎓 Education
 
-- **Dr. Vithalrao Vikhe Patil College of Engineering, Ahilyanagar** (7.46/10 CGPA)<br>
-  BE in Electronics and Telecommunication (2021 – 2025)
-- **Residential Arts, Commerce, and Science Junior College** (87.5%)<br>
-  HSC (2020 – 2021)
+| Degree | Institution | Year | CGPA/Score |
+|--------|-------------|------|------------|
+| BE Electronics & Telecommunication | Dr. Vithalrao Vikhe Patil College of Engineering, Ahilyanagar | 2021–2025 | 7.46/10 |
+| HSC | Residential Arts, Commerce, and Science Junior College | 2020–2021 | 87.5% |
 
----
 
-## 💻 Technologies
-
-+ <ul>
-+   <li><b>Programming Languages:</b> 
-+     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
-+   </li>
+## 💻 Technologies & Tools
 
 | Category                | Technologies & Tools |
 |-------------------------|----------------------|
@@ -50,80 +42,84 @@ Innovative and result-oriented Electronics and Telecommunication Engineering stu
 | **Hardware**              | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) Soldering, PC Building, Circuit Prototyping |
 | **Development Practices** | Agile, Test-Driven Development (TDD), Continuous Integration/Deployment (CI/CD) |
 
-**Artificial Intelligence Intern – MathWorks** (May 2023 – Sep 2023)
-- Successfully completed the MathWorks Virtual Internship Program on “Getting Started with Artificial Intelligence,” supported by AICTE and NEAT.
-- Gained hands-on experience with AI workflows including data preprocessing, model training, and performance evaluation using MATLAB.
-- Applied foundational AI techniques to solve real-world problems through project-based learning modules.
 
-**6G Research Intern - HNNOIX India Pvt Ltd, Gurgaon** (Remote, March 2025 – Present)
-- Involved in ongoing research and development projects related to 6G wireless communication systems.
-- Learning and applying concepts of network slicing, spectrum management, and terahertz communication.
-- Working on simulation and modeling using Python and MATLAB for signal analysis and optimization.
-- Attending live sessions and completing regular assignments focused on intellectual property trends in next-gen networks.
+## 💼 Experience
 
----
+### Artificial Intelligence Intern – IBM India Pvt. Ltd. (Remote, Jun 2023 – Aug 2023)
+
+### Artificial Intelligence Intern – MathWorks (May 2023 – Sep 2023)
+
+### 6G Research Intern – HNNOIX India Pvt Ltd, Gurgaon (Remote, Mar 2025 – Present)
+
+### Jr. Software Developer – Manasvi Tech Solution (Apr 2024 – Present)
+
+### Embedded Systems Intern – Emertxe Information Technologies (Feb 2024 – Apr 2024)
+
 
 ## 🛠️ Projects
 
-**Alumni Management Portal** (June 2024 – Present)
-- Architected a highly scalable backend infrastructure using Django, Flask, and MySQL to facilitate seamless alumni interactions.
-- Integrated secure user authentication systems and leveraged AWS Cloud Storage for scalable data management.
-- Conducted continuous testing and debugging to optimize system performance.
+### Alumni Management Portal (June 2024 – Present)
 
-**Smart Irrigation System** (Smart India Hackathon 2023 – AIR 1; University Rank 2 – SPPU Startup Olympiad 2025)
-- Engineered an IoT-powered irrigation solution integrating AI models and sensor data to optimize water usage.
-- Achieved a 30% reduction in water wastage through data-driven irrigation scheduling strategies.
-- Applied Agile development practices to ensure timely delivery of solution components.
+### Smart Irrigation System (Smart India Hackathon 2023 – AIR 1; SPPU Startup Olympiad 2025 – Rank 2)
 
-**Line Following Robot** (Mini Project – Jan 2024 to May 2024)
-- Designed and developed an autonomous line-following robot using Arduino Mega and IR sensors for real-time path detection.
-- Engineered optimized path-following algorithms, achieving 95% course accuracy in complex circuit simulations.
-- Simulated and evaluated multiple control strategies to enhance response time and turning precision.
-- Demonstrated strong foundations in embedded systems, robotics, and automation.
+### Line Following Robot (Jan 2024 – May 2024)
 
----
+### E-Waste Management Portal (Smart India Hackathon 2023, AIR-1)
 
-## 🏆 Extracurricular Activities
+### Tiffin Service App
 
-- AIR 1 Winner – Smart India Hackathon 2023 for innovative problem-solving.
-- University Rank 2 – SPPU Startup Olympiad 2025 for the Smart Irrigation System idea.
-- Runner-Up – AI Hackathon by TIAA Global Pvt. Ltd. for developing an innovative AI-powered solution aimed at financial data analytics.
-- Completed 6-day Innovation Design and Product Development Training by the Government of India at Nagpur and Visakhapatnam.
+### PCB Design Scripts
 
----
 
+## 🏆 Achievements
 ## 📜 Certificates
 
-- Geodata Processing using Python – ISRO & IIRS
-- Overview of Global Navigation Satellite System – ISRO
-- Signal Processing Onramp – MathWorks
-- Deep Learning Onramp – MathWorks
-- Python Programming – GUVI
+| Achievement | Details |
+|-------------|--------|
+| 🥇 AIR-1 Winner | Smart India Hackathon 2023 |
+| 🥈 University Rank 2 | SPPU Startup Olympiad 2025 (Smart Irrigation System) |
+| 🏅 Runner-Up | AI Hackathon by TIAA Global Pvt. Ltd. |
+| � Research Paper | IoT-based Smart Agriculture |
+| 🎓 Training | Innovation Design & Product Development (Govt. of India) |
 
 ---
+
+| Certificate | Issuer |
+|-------------|--------|
+| Python for Everybody | Coursera |
+| Embedded Systems | Emertxe |
+| SQL for Data Science | Coursera |
+| Web Development Bootcamp | Udemy |
+| Geodata Processing using Python | ISRO & IIRS |
+| Overview of Global Navigation Satellite System | ISRO |
+| Signal Processing Onramp | MathWorks |
+| Deep Learning Onramp | MathWorks |
+| Python Programming | GUVI |
+
+
 
 ## 👤 Personal Details
 
-- **Date of Birth:** 21st February 2004
-- **Languages Known:** English, Hindi, Marathi
-- **Address:** Shrirampur, Ahilyanagar, Maharashtra, India
+| Field | Details |
+|-------|---------|
+| **Date of Birth** | 21st February 2004 |
+| **Languages Known** | English, Hindi, Marathi |
+| **Address** | Shrirampur, Ahilyanagar, Maharashtra, India |
 
----
+
+## 📫 Contact & Links
 
 <div align="center">
-  <a href="https://github.com/kulkarnishub377">
-    <img src="https://img.shields.io/github/followers/kulkarnishub377?label=Follow&style=social"/>
-  </a>
-  <a href="mailto:kulkarnishub377@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kulkarnishub377%40gmail.com-blue?style=flat-square"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubhkulk21/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
-  </a>
-  <a href="https://kulkarnishub377.github.io/sk/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green"/>
-  </a>
+  <a href="mailto:kulkarnishub377@gmail.com"><img src="https://img.shields.io/badge/Email-kulkarnishub377%40gmail.com-blue?style=flat-square&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/shubhkulk21/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/></a>
+  <a href="https://github.com/kulkarnishub377"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"/></a>
+  <a href="https://kulkarnishub377.github.io/sk/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome"/></a>
+  <a href="https://wa.me/+918308003684"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp"/></a>
+  <a href="https://twitter.com/shubhkulk21"><img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter"/></a>
+  <a href="https://www.instagram.com/shubhkulk21/"><img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram"/></a>
+  <a href="https://facebook.com/shubhkulk21"><img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook"/></a>
 </div>
+
 
 ## 📊 GitHub Stats
 
@@ -133,16 +129,6 @@ Innovative and result-oriented Electronics and Telecommunication Engineering stu
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kulkarnishub377&theme=radical"/>
 </div>
 
----
-
-## 📫 Contact & Links
-
-- 🌐 [Portfolio](https://kulkarnishub377.github.io/sk/)
-- 📧 Email: [kulkarnishub377@gmail.com](mailto:kulkarnishub377@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shubhkulk21/)
-- 🐦 [Twitter](https://twitter.com/shubhkulk21)
-
----
 
 <div align="center">
   <b>Thank you for visiting! ⭐️</b>
