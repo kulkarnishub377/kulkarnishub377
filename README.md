@@ -167,56 +167,6 @@ I love solving real-world problems with technology, and I enjoy collaborating wi
 
 
 
-## � Work Experience
-
-**Jr. Software Developer** @ Manasvi Tech Solution (Apr 2024 – Present)
-
----
-
-**Embedded Systems Intern** @ Emertxe Information Technologies (Feb 2024 – Apr 2024)
-
-
-## 🚀 Featured Projects
-| ♻️ E-Waste Management Portal | Smart India Hackathon 2023, AIR-1 project |
-| 🍽️ Tiffin Service App | Cross-platform app for daily meal subscriptions |
-| 🔧 PCB Design Scripts | KiCad scripting with Python for automation |
-
-
-## 🏅 Certifications
-
-- Python for Everybody (Coursera)
-- Embedded Systems (Emertxe)
-- SQL for Data Science (Coursera)
-- Web Development Bootcamp (Udemy)
-
----
-
-## 🥇 Achievements
-
-- AIR-1 Winner, Smart India Hackathon 2023
-- Top 5 Finalist, National Level IoT Challenge
-- Published research paper on IoT-based Smart Agriculture
-
----
-
-## 📚 Learning & Goals
-
-- Deepen expertise in AI and Machine Learning
-- Master cloud technologies (AWS, Azure)
-- Contribute to impactful open-source projects
-- Build scalable IoT solutions
-
----
-
-## 🎯 Hobbies & Interests
-
-- Playing chess and solving puzzles
-- Exploring new tech gadgets
-- Blogging about tech trends
-- Traveling and photography
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
