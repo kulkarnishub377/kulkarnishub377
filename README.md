@@ -39,48 +39,16 @@ Innovative and result-oriented Electronics and Telecommunication Engineering stu
 +     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
 +     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
 +   </li>
-+   <li><b>Cloud Platforms:</b> 
-+     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-+   </li>
-+   <li><b>Platforms:</b> 
-+     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-+   </li>
-+   <li><b>Tools & Frameworks:</b> 
-+     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> 
-+     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-+   </li>
-+   <li><b>Databases:</b> 
-+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/SQL/PLSQL-003B57?style=flat&logo=databricks&logoColor=white"/>
-+   </li>
-+   <li><b>Hardware:</b> 
-+     <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white"/> 
-+     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/> 
-+     soldering, PC building, circuit prototyping
-+   </li>
-+   <li><b>Development Practices:</b> 
-+     Agile, Test-Driven Development (TDD), Continuous Integration/Deployment (CI/CD)
-+   </li>
-+ </ul>
 
----
-
-## 💼 Experience
-
-**Artificial Intelligence Intern – IBM India Pvt. Ltd.** (Remote, Jun 2023 – Aug 2023)
-- Designed and deployed a sophisticated AI-based Mental Health Fitness Tracker, achieving a 90% accuracy rate in mood detection through advanced natural language processing techniques.
-- Led model evaluation, debugging, and optimization strategies to ensure high system reliability.
-- Collaborated with cross-functional teams to ensure smooth project delivery and integration.
+| Category                | Technologies & Tools |
+|-------------------------|----------------------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) |
+| **Cloud Platforms**       | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| **Platforms**             | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Tools & Frameworks**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |
+| **Databases**             | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![SQL/PLSQL](https://img.shields.io/badge/SQL/PLSQL-003B57?style=flat&logo=databricks&logoColor=white) |
+| **Hardware**              | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) Soldering, PC Building, Circuit Prototyping |
+| **Development Practices** | Agile, Test-Driven Development (TDD), Continuous Integration/Deployment (CI/CD) |
 
 **Artificial Intelligence Intern – MathWorks** (May 2023 – Sep 2023)
 - Successfully completed the MathWorks Virtual Internship Program on “Getting Started with Artificial Intelligence,” supported by AICTE and NEAT.
@@ -157,62 +125,7 @@ Innovative and result-oriented Electronics and Telecommunication Engineering stu
   </a>
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I am an innovative and result-oriented Electronics & Telecommunication Engineer passionate about bridging hardware and software. Currently, as a Jr. Software Developer at Manasvi Tech Solution, I work on full-stack development, automation, and intelligent backend solutions. My journey is driven by curiosity for embedded systems, IoT, and creating intelligent, automated solutions.
-
-I love solving real-world problems with technology, and I enjoy collaborating with diverse teams to deliver impactful solutions. My interests include AI, robotics, and open-source contributions. Always eager to learn and grow!
-
-
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://twitter.com/shubhkulk21"><img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter"/></a>
-  <a href="https://www.instagram.com/shubhkulk21/"><img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram"/></a>
-  <a href="https://facebook.com/shubhkulk21"><img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook"/></a>
-</div>
-
-## 💡 Tech Stack & Skills
-
-<details>
-  <summary>Languages</summary>
-  <ul>
-    <li>Python</li>
-    <li>MATLAB</li>
-    <li>SQL</li>
-    <li>HTML, CSS, JavaScript</li>
-  </ul>
-</details>
-<details>
-  <summary>Frameworks & Tools</summary>
-  <ul>
-    <li>Flask, Django</li>
-    <li>Postman, Jupyter</li>
-    <li>Git, Docker</li>
-  </ul>
-</details>
-<details>
-  <summary>Hardware</summary>
-  <ul>
-    <li>Raspberry Pi, Arduino</li>
-    <li>Circuit Design</li>
-  </ul>
-</details>
-<details>
-  <summary>Practices</summary>
-  <ul>
-    <li>REST APIs</li>
-    <li>Agile, CI/CD</li>
-    <li>Test-Driven Development</li>
-  </ul>
-</details>
-
----
-
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kulkarnishub377&show_icons=true&theme=radical"/>
