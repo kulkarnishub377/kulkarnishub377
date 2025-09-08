@@ -72,7 +72,6 @@ Innovative and result-oriented engineer with a passion for building intelligent 
 
 
 ## 🏆 Achievements
-## 📜 Certificates
 
 | Achievement | Details |
 |-------------|--------|
@@ -83,7 +82,7 @@ Innovative and result-oriented engineer with a passion for building intelligent 
 | 🎓 Training | Innovation Design & Product Development (Govt. of India) |
 
 ---
-
+## 📜 Certificates
 | Certificate | Issuer |
 |-------------|--------|
 | Python for Everybody | Coursera |
