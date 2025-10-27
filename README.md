@@ -159,6 +159,10 @@ Conversational AI using Transformers for intelligent query handling.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kulkarnishub377&theme=tokyonight&hide_border=false" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kulkarnishub377&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarnishub377&layout=compact&theme=tokyonight" height="160"/>
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulkarnishub377&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+
 </div>
 
 ---
