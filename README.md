@@ -79,11 +79,8 @@ Conversational AI system using Transformers.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kulkarnishub377&show_icons=true&theme=tokyonight&count_private=true">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kulkarnishub377&theme=tokyonight">
 </p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarnishub377&layout=compact&theme=tokyonight">
-</p>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kulkarnishub377&theme=tokyonight" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarnishub377&layout=compact&theme=tokyonight" height="160"/>
+<!-- Contribution Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulkarnishub377&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/> </div>
 ---
 
 ## 🐍 Contribution Snake Animation  
