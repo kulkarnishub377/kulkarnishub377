@@ -1,8 +1,16 @@
+# 🐍 GitHub Contribution Snake Workflow
+# ======================================
+# This Action generates a contribution graph snake animation for your GitHub profile.
+# It runs daily and pushes the generated SVG to the `output` branch.
+# The README then references that SVG using the raw.githubusercontent link.
+
 name: 🐍 Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight UTC
+    # Runs every day at midnight (UTC)
+    - cron: "0 0 * * *"
+  # Also runs when you push to main or manually trigger
   push:
     branches:
       - main
@@ -11,16 +19,26 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake animation
+      # 1️⃣ Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Generate the snake animation SVG
+      - name: Generate the Snake
         uses: Platane/snk@v3
         with:
+          # 👇 Change this to your GitHub username
           github_user_name: kulkarnishub377
+          # Output folder and file name for the generated snake SVG
           outputs: dist/github-contribution-grid-snake-dark.svg
+
+      # 3️⃣ Push the generated SVG to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output          # The branch that will store the SVG
+          build_dir: dist                # The folder containing the generated SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # Auth token (auto-provided)
