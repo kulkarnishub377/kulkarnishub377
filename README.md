@@ -86,15 +86,6 @@ Conversational AI system using Transformers.
 
 ---
 
-
-## 🧩 3D Contribution Graph  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kulkarnishub377/github-readme-3d-contrib/main/docs/demo/profile-night-view.svg" width="100%">
-</p>
-
----
-
 ## 🐍 Contribution Snake Animation  
 
 <p align="center">
