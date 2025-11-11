@@ -1,12 +1,15 @@
 <!-- Animated Intro -->
 <p align="center">
-  <a href="https://github.com/kulkarnishub377">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Shubham+Kulkarni!;Software+Developer+%7C+AI%2FML+Innovator;Computer+Vision+%7C+IoT+%7C+Cloud+Computing;Hackathon+Winner+%7C+Open+Source+Contributor;Turning+Ideas+into+Reality+with+Code!"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shubham+Kulkarni+🚀;AI+Engineer+|+IoT+Innovator+|+Hackathon+Champion;Transforming+Ideas+into+Intelligent+Reality!">
 </p>
+
 ---
+
+<!-- Visitor Counter & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kulkarnishub377&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=kulkarnishub377&label=Profile%20Views&color=brightgreen&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/kulkarnishub377?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/github/stars/kulkarnishub377?style=for-the-badge&logo=github">
 </p>
 
 
@@ -93,6 +96,11 @@ I’m **Shubham Kulkarni**, a tech innovator passionate about crafting **AI-powe
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
 ⚡ **Expertise:** Sensors, PCB Design, Edge AI, Circuit Prototyping, IoT Automation  
 
+### 🌈 Animated Skills Section  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,react,aws,docker,arduino,raspberrypi,git,linux&perline=6">
+</p>
+
 ---
 
 ## 💼 Professional Experience  
@@ -167,6 +175,51 @@ Conversational AI using Transformers for intelligent query handling.
 
 ---
 
+## ⏱️ WakaTime Coding Activity  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <a href="https://wakatime.com/@kulkarnishub377">
+    <img src="https://wakatime.com/badge/user/your_wakatime_userid.svg" alt="WakaTime Badge">
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kulkarnishub377&theme=radical&no-frame=true&margin-w=15&column=6">
+</p>
+
+---
+
+## 🌐 3D Contribution Graph  
+
+<p align="center">
+  <img src="https://github.com/Ashutosh00710/github-readme-3d-contrib/raw/master/docs/demo/profile-night-rainbow.svg" width="100%">
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
+---
+
+## 💬 Daily Tech Quote  
+
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in">
+</p>
+
+---
+
 ## 🎯 Beyond Code  
 
 - 🌍 **Traveler & Photographer:** Capturing stories through lenses  
@@ -186,3 +239,7 @@ Conversational AI using Transformers for intelligent query handling.
 </div>
 
 ---
+
+<p align="center">
+  ⏱️ <b>Last Updated:</b> Auto-updated via GitHub Actions
+</p>
