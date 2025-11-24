@@ -54,11 +54,9 @@ Building **AI-integrated IoT communication systems** that redefine smart connect
 
 | Role | Organization | Duration | Highlights |
 |------|---------------|-----------|-------------|
-| **Software Developer** | Arya Omnitalk Wireless Solutions Pvt. Ltd. | Aug 2024 – Present | Building AI-integrated IoT communication systems |
+| **Software Developer** | Arya Omnitalk Wireless Solutions Pvt. Ltd. | Aug 2025 – Present | Building AI-integrated IoT communication systems |
 | **AI Intern** | IBM India Pvt. Ltd. | Jun 2023 – Aug 2023 | NLP-based sentiment analysis for wellness apps |
 | **AI Intern (NEAT)** | MathWorks | May 2023 – Sep 2023 | MATLAB AI simulations & signal analysis |
-| **6G Research Intern** | HNNOIX India Pvt. Ltd. | Mar 2025 – Present | Researching network slicing & signal optimization |
-
 ---
 
 ## 🚀 Featured Projects  
