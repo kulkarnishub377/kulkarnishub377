@@ -1,34 +1,50 @@
-name: 🐍 Generate Contribution Snake
+name: 🐍 Generate Cyberpunk Contribution Snake
 
 on:
+  # ⏱️ Run automatically every 6 hours
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+    - cron: "0 */6 * * *"
+  
+  # 👆 Allow manual trigger from the Actions tab
+  workflow_dispatch:
+  
+  # 🚀 Run on every push to the master branch
   push:
     branches:
-      - main
-  workflow_dispatch:
+    - master
+    - main
 
+# 🔒 Set permissions to allow writing to the repo
 permissions:
-  contents: write      # ✅ gives the Action permission to push branches
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
+    
     steps:
-      # 1️⃣ Checkout your repo
-      - name: Checkout repository
+      # 1️⃣ Checkout the repository
+      - name: 📥 Checkout Repo
         uses: actions/checkout@v3
 
-      # 2️⃣ Generate the snake SVG
-      - name: Generate snake animation
+      # 2️⃣ Generate the Snake (3 Variations)
+      - name: 🐍 Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: kulkarnishub377
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            # Variant 1: Standard Light
+            dist/github-contribution-grid-snake.svg
+            
+            # Variant 2: Standard Dark (Matches GitHub Dark Mode)
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+            # Variant 3: 🌟 CYBERPUNK SPECIAL (Cyan Snake + Neon Dots)
+            dist/github-contribution-grid-snake-neon.svg?palette=github-dark&color_snake=#00FFFF&color_dots=#161b22,#463c64,#894a96,#c45aa7,#ff6acb
 
-      # 3️⃣ Push the generated snake to the output branch
-      - name: Push to output branch
+      # 3️⃣ Push the results to the 'output' branch
+      - name: 📤 Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
