@@ -192,7 +192,7 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/output/github-contribution-grid-snake-ocean.svg" width="100%">
 </p>
 
 ---
