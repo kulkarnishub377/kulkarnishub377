@@ -159,7 +159,7 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
 </div>
 
 
-## 📊 GitHub Analytics — Simple & Clean Theme
+## 📊 GitHub Analytics
 
 <div align="center">
 
