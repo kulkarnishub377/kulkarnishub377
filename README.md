@@ -164,12 +164,8 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
 <div align="center">
 
   <!-- Stats -->
-  <img height="165"
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=kulkarnishub377&show_icons=true&count_private=true&hide_border=false&theme=default" />
-
-  <!-- Streak -->
-  <img height="165"
-       src="https://github-readme-streak-stats.herokuapp.com?user=kulkarnishub377&theme=default&hide_border=false" />
+   <img src="https://github-readme-stats.vercel.app/api?username=kulkarnishub377&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarnishub377&layout=compact&theme=radical" height="180" alt="Top Languages" />
 
   <!-- Languages -->
   <img height="165"
