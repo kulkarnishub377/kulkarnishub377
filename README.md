@@ -190,6 +190,14 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
 </p>
 
 ---
+
+## 🧠 Neural Network Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/brain-activity.svg" width="100%">
+</p>
+
+---
 ## 📊 Contribution graph 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kulkarnishub377&theme=tokyo-night)
 
