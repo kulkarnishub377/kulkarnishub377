@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-02-12T11:28:49.696Z",
+  "timestamp": "2026-02-12T11:33:46.274Z",
   "user": "kulkarnishub377",
   "stats": {
-    "totalContributions": 2345,
-    "currentStreak": 49,
-    "maxStreak": 49,
-    "weeklyTotal": 45
+    "totalContributions": 1351,
+    "currentStreak": 71,
+    "maxStreak": 71,
+    "weeklyTotal": 35
   },
   "power": {
-    "level": 73,
+    "level": 64,
     "class": "Expert",
     "color": "#00ffff",
     "breakdown": {
-      "base": 23,
+      "base": 14,
       "streak": 30,
       "weekly": 20
     }
   },
   "gamification": {
-    "level": 7,
-    "title": "Senior Developer",
-    "xp": 23450,
+    "level": 5,
+    "title": "Full Stack Hero",
+    "xp": 13510,
     "xpProgress": 100,
     "badges": [
       {
@@ -44,14 +44,18 @@
         "icon": "🌙"
       },
       {
+        "name": "Streak Champion",
+        "icon": "🔥"
+      },
+      {
         "name": "Elite Engineer",
         "icon": "🚀"
       }
     ]
   },
   "predictions": {
-    "estimatedWeeklyCommits": 45,
-    "estimatedMonthlyCommits": 193,
+    "estimatedWeeklyCommits": 26,
+    "estimatedMonthlyCommits": 111,
     "trend": "📈 Above Average"
   },
   "eliteMode": true
