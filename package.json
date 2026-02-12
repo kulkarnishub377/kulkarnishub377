@@ -1,30 +1,14 @@
 {
-  "name": "ultimate-contribution-engine",
-  "version": "2.0.0",
+  "name": "github-profile",
+  "version": "1.0.0",
   "private": true,
-  "description": "ALL-IN-ONE Ultimate Contribution Engine - AI-powered visual contribution system",
-  "scripts": {
-    "generate": "node scripts/generateAll.js",
-    "generate:brain": "node scripts/generateBrain.js",
-    "generate:space": "node scripts/generateSpace.js",
-    "generate:matrix": "node scripts/generateMatrix.js",
-    "generate:power": "node scripts/generatePower.js",
-    "fetch": "node scripts/fetchData.js",
-    "test": "node scripts/test.js",
-    "legacy:brain": "node scripts/generate-brain.js"
-  },
-  "dependencies": {
-    "node-fetch": "^2.7.0"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
+  "description": "GitHub profile with contribution snake animation",
+  "scripts": {},
   "keywords": [
     "github",
-    "contribution",
-    "visualizer",
-    "svg",
-    "profile"
+    "profile",
+    "snake",
+    "contribution"
   ],
   "author": "Shubham Kulkarni"
 }

@@ -188,10 +188,6 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
 <p align="center">
   <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/output/github-contribution-grid-snake-ocean.svg" width="100%">
 </p>
----
-
-## 📊 Contribution graph 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kulkarnishub377&theme=tokyo-night)
 
 ---
 
