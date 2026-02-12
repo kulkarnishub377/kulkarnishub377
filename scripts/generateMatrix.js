@@ -1,5 +1,5 @@
 const fs = require("fs");
-const { fetchContributions, calculateStats } = require("./fetchData");
+const { fetchContributions, calculateStats, USERNAME } = require("./fetchData");
 
 function generateMatrixSVG(stats) {
   const { totalContributions, currentStreak, maxStreak, level, levelTitle, xpProgress, eliteMode, weeklyTotal } = stats;
@@ -89,7 +89,7 @@ function generateMatrixSVG(stats) {
 
     <!-- Terminal content -->
     <text x="${terminalX + 15}" y="${terminalY + 50}" fill="${colors.primary}" font-size="11" font-family="monospace">
-      <tspan>$ ./stats --user kulkarnishub377</tspan>
+      <tspan>$ ./stats --user ${USERNAME}</tspan>
     </text>
 
     <text x="${terminalX + 15}" y="${terminalY + 70}" fill="${colors.terminal}" font-size="11" font-family="monospace">

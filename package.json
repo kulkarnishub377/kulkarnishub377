@@ -10,6 +10,7 @@
     "generate:matrix": "node scripts/generateMatrix.js",
     "generate:power": "node scripts/generatePower.js",
     "fetch": "node scripts/fetchData.js",
+    "test": "node scripts/test.js",
     "legacy:brain": "node scripts/generate-brain.js"
   },
   "dependencies": {

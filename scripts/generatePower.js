@@ -1,5 +1,5 @@
 const fs = require("fs");
-const { fetchContributions, calculateStats } = require("./fetchData");
+const { fetchContributions, calculateStats, USERNAME } = require("./fetchData");
 
 function generatePowerJSON(stats) {
   const {
@@ -59,7 +59,7 @@ function generatePowerJSON(stats) {
 
   const powerData = {
     timestamp: new Date().toISOString(),
-    user: "kulkarnishub377",
+    user: USERNAME,
     stats: {
       totalContributions,
       currentStreak,

@@ -121,7 +121,7 @@ function calculateStats(calendar) {
   };
 }
 
-module.exports = { fetchContributions, calculateStats };
+module.exports = { fetchContributions, calculateStats, USERNAME };
 
 // Run standalone
 if (require.main === module) {
