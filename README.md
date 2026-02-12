@@ -157,7 +157,7 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
 | **♻️ E-Waste Mgmt** | `Flask` `MongoDB` `Cloud` | SaaS platform for tracking e-waste with AI-powered categorization. |
 
 </div>
-
+---
 
 ## 📊 GitHub Analytics
 
@@ -180,7 +180,7 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kulkarnishub377&theme=default" />
 
 </div>
-
+---
 
 
 ## 🐍 Contribution Snake  
@@ -188,47 +188,6 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
 <p align="center">
   <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/output/github-contribution-grid-snake-ocean.svg" width="100%">
 </p>
-
----
-
-## 🧠 Neural Activity Core
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/brain-core.svg" width="100%">
-</p>
-
-> 🧠 **Brain pulses based on total commits** • **Nodes glow based on daily activity** • **Streak = heartbeat speed**
-
----
-
-## 🚀 Space Battle Mode
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/space-battle.svg" width="100%">
-</p>
-
-> 🚀 **Spaceship moves across weekly rows** • **Contributions = enemies destroyed** • **Boss appears on long streaks**
-
----
-
-## 🌌 Cyberpunk Matrix System
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/matrix-layer.svg" width="100%">
-</p>
-
-> 🌌 **Matrix rain background** • **Terminal stats overlay** • **Real-time system monitoring**
-
----
-
-## ⚡ Power Level Meter
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/power-meter.svg" width="100%">
-</p>
-
-> ⚡ **Dynamic power level** • **XP & Level progression** • **Achievement badges**
-
 ---
 
 ## 📊 Contribution graph 
