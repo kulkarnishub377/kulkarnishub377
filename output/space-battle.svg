@@ -1,0 +1,1486 @@
+<svg width="900" height="280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="spaceBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000011"/>
+      <stop offset="50%" stop-color="#001122"/>
+      <stop offset="100%" stop-color="#000022"/>
+    </linearGradient>
+    <filter id="spaceGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#spaceBg)"/>
+
+  <!-- Starfield -->
+  
+      <circle cx="55.02896704354463" cy="158.19542147305248" r="1.82107153426811" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.126130140473075s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="344.1622006665022" cy="264.96604948373306" r="0.7786296132231103" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.0415453146864144s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="21.864137222855728" cy="188.08140806636894" r="1.729737845373825" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.566749082514132s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="562.4514608622337" cy="222.55317651717866" r="0.5069464447398131" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.1080600910541643s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="230.06091217454966" cy="201.9889239078344" r="1.3863355097799905" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.7663144225448649s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="804.2522405269555" cy="267.7854119640627" r="1.8529811438595136" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.5133064656351953s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="820.4365135737168" cy="258.72826879128877" r="0.5885352567837161" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.6804162919789446s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="887.7388487614484" cy="23.891128441229878" r="1.902601306003361" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.8269124198552482s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="80.55493188236213" cy="10.197213265833177" r="0.7311851779079714" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.067485911249037s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="389.79856715200896" cy="104.96713895698007" r="1.1484979463567146" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.7491400927700207s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="759.5222382666195" cy="276.1714680529688" r="1.9112349445982333" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.1006535235177133s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="735.7211872909099" cy="76.97228216994452" r="0.7710881335902773" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.4533446116206388s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="651.3317497053586" cy="69.06836279389817" r="0.9823683843798068" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.8174580146194694s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="857.4323043547788" cy="80.4762507745598" r="1.261338633221535" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.6331335876019324s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="4.1939424315514895" cy="211.52193498328825" r="0.8945351562017294" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.677584427997921s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="218.17902952538182" cy="12.579517859912936" r="1.6752443889459805" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.7543600247675539s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="568.4017354822612" cy="277.388996016602" r="1.1812639519064672" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.5686224904383417s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="190.34569310415387" cy="211.8909904687919" r="1.6611862529774046" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.5753389167069216s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="831.5434929571574" cy="239.6817216117223" r="0.5287411571000332" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.07221502707421235s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="84.71436433219753" cy="125.5746840492025" r="1.6684853456011135" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.3080029561049479s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="247.30874855750554" cy="50.78038277919747" r="0.9771652026240114" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.9754104049538483s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="76.83616044571929" cy="162.85960740806547" r="1.0665801550917309" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.2567356667651084s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="250.8215511025323" cy="203.16291378745936" r="0.9120766618554754" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.1940624481534854s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="494.1275615729137" cy="99.2739577899889" r="1.3984261707653287" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.6508526636029611s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="435.4230342966031" cy="103.62019785679371" r="1.929134578328336" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.33182240422838594s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="200.30745946628102" cy="230.6985031794978" r="0.7751271907800787" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.579704337055956s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="667.5107451688409" cy="0.4377681058626104" r="1.2936336808786808" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.7847966393665669s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="573.1192662404103" cy="215.90040183131475" r="1.5117556677183834" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.3116467417936999s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="188.77628593351875" cy="26.73271711563119" r="1.342365347508269" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.6771006637080309s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="27.707186390560945" cy="69.8843767550739" r="1.0123475972514664" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.578171386265451s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="497.404184488738" cy="210.7121514719972" r="0.6223475960327383" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.15694636637945825s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="741.0388606467641" cy="3.9072610012020137" r="1.6113819645010388" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.7623581889028435s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="747.7887701098996" cy="242.6138601462301" r="0.9979156909673284" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.1446516185903768s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="191.05310568251406" cy="201.68882632703853" r="1.611188268943144" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.5202305898782201s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="27.441314165819676" cy="26.256849350029817" r="0.6903884259706476" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.938765082591864s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="801.6631627792763" cy="173.36222890387472" r="0.9900512386668398" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.7422289907078734s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="676.3614924039712" cy="78.60380421547734" r="1.987944092353932" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.7132592761686067s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="224.234745670398" cy="177.34992234099673" r="0.5369863405120867" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.264964036076929s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="890.5956994904909" cy="195.85051551252354" r="1.3415873808916305" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.701225642492252s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="11.910844463515602" cy="189.95685933597187" r="1.647135274276115" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.9631369971103365s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="63.43157989053957" cy="263.51765073268757" r="1.1482960965389941" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.09177145960768107s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="556.8588815519344" cy="129.1038873425583" r="0.5778308919232609" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.551062453922816s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="361.13827546620644" cy="238.46605188069708" r="0.6897942923411013" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.4411006562965256s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="400.99287719088363" cy="249.42367516550408" r="1.5127726608396384" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.34068107664134706s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="829.5286437593168" cy="73.41156566575468" r="1.5512816842870287" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.6495304504842209s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="826.5680301904551" cy="263.18436730156327" r="1.3576337466140749" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.7262325086954307s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="524.2319131498185" cy="39.81022804033458" r="1.8224369255770738" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.029088299268118734s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="585.8643226703764" cy="265.9781284550756" r="0.7803814073451337" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.121172576155778s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="177.2951594735601" cy="24.51012594982491" r="1.1271284178399439" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.9760004886549194s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="767.8808321028796" cy="200.13531380121762" r="0.5544612523096619" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.3354592821279088s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="643.6650902886681" cy="172.35300780262688" r="1.769576778296635" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.930336861704843s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="620.3152914266818" cy="214.46003386667948" r="1.1939210906123872" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.5048135776313023s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="345.3227975052664" cy="25.94707671016772" r="1.271310501363323" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.7512878759692643s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="527.5468466228883" cy="19.584374359061812" r="0.997374503206957" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.8432418149106394s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="27.471622590198706" cy="170.43039805721114" r="1.251927276377673" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.6779711232705146s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="881.5142818644588" cy="249.3746993028528" r="1.0859610121198526" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.558671828812117s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="795.1674337318141" cy="157.30784804050683" r="1.1655942995997874" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.1309718937599006s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="113.32937697027752" cy="222.22654405355507" r="1.5239657055211027" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.4357413958213757s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="832.5366929238406" cy="157.5908349024341" r="1.0554672717736697" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.406759517485928s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="770.9381093274708" cy="103.6978670745159" r="0.899772302529982" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.4472595111579396s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="794.3938688865898" cy="214.88105025844214" r="1.007030541443707" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.4840061390212607s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="172.80197001328844" cy="134.49801188768336" r="1.5897455714711657" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.005634095728914s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="566.003468780053" cy="64.66724077982646" r="0.9410879877320754" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.6863266082302475s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="119.69479260940338" cy="100.68135202215072" r="1.1762405131726275" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.8562887995694486s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="233.42864712674515" cy="21.471045864398608" r="0.5432859072379855" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.3819403813908102s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="884.5260717812971" cy="40.39036590905667" r="0.5508133488571084" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.1635569029508575s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="870.0634659176573" cy="158.22754910254582" r="1.3719537763563041" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.6644671705287521s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="171.15853420467968" cy="52.84882502136753" r="1.9498684347330002" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.36493772643209443s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="401.96717279640194" cy="49.343327340605576" r="1.1556236487958649" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.36362649219952703s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="630.942545841923" cy="116.86404911086825" r="0.9337281424088375" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.5611169258848134s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="599.5801691995237" cy="172.46068715595786" r="0.5565022070801973" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.1793910906760763s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="727.8162893894529" cy="116.20473283018973" r="1.668999025638476" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.7264852296746778s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="438.89493886043266" cy="128.66018379250778" r="1.6103874516896326" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.534724697710928s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="555.5923065867293" cy="71.68466355980752" r="0.5681398800619792" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.7699195851619947s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="350.73165869055634" cy="67.24221952011294" r="0.8954255788860019" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1.8319344106161028s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="267.27489440033355" cy="12.802290975393461" r="1.7444088299462708" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.4861527848321003s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="661.7245391220814" cy="74.83612056160662" r="1.8578434053462922" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.3422742095358684s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="155.05046175057325" cy="150.41880935130789" r="0.664985488429827" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.187144106787284s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="140.64190401310987" cy="7.205724966751834" r="1.385107110439883" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="2.064654039752688s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="387.2559734267561" cy="137.08470090415508" r="0.8883073897227776" fill="#ffffff" opacity="0.6">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="0.4080223260772783s" repeatCount="indefinite"/>
+      </circle>
+
+  <!-- Enemies -->
+  <g filter="url(#spaceGlow)">
+    
+          <g class="enemy" transform="translate(150, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-19 19,9.5 -19,9.5"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="31" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-19" y="23" width="22" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(150, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-11 11,5.5 -11,5.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-11" y="15" width="6" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(150, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-18 18,9 -18,9"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="30" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-18" y="22" width="20" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(150, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-9 9,4.5 -9,4.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-9" y="13" width="2" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(150, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-10 10,5 -10,5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-10" y="14" width="4" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(150, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-11 11,5.5 -11,5.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-11" y="15" width="6" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(205, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-17 17,8.5 -17,8.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-17" y="21" width="18" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(205, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-17 17,8.5 -17,8.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-17" y="21" width="18" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(205, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(205, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-19 19,9.5 -19,9.5"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="31" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-19" y="23" width="22" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(205, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-9 9,4.5 -9,4.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-9" y="13" width="2" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(205, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-16 16,8 -16,8"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-16" y="20" width="16" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(205, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(260, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(260, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(260, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-9 9,4.5 -9,4.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-9" y="13" width="2" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(260, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(260, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(260, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(315, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(315, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(315, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(315, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(315, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-19 19,9.5 -19,9.5"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="31" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-19" y="23" width="22" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(315, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(370, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-17 17,8.5 -17,8.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-17" y="21" width="18" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(370, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(370, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-10 10,5 -10,5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-10" y="14" width="4" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(370, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-10 10,5 -10,5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-10" y="14" width="4" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(370, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-13 13,6.5 -13,6.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-13" y="17" width="10" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(370, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-11 11,5.5 -11,5.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-11" y="15" width="6" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(425, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-11 11,5.5 -11,5.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-11" y="15" width="6" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(425, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-17 17,8.5 -17,8.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-17" y="21" width="18" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(425, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(425, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-11 11,5.5 -11,5.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-11" y="15" width="6" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(425, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-18 18,9 -18,9"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="30" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-18" y="22" width="20" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(425, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(425, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-13 13,6.5 -13,6.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-13" y="17" width="10" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(480, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(480, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(480, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-16 16,8 -16,8"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-16" y="20" width="16" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(480, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-11 11,5.5 -11,5.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-11" y="15" width="6" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(480, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-19 19,9.5 -19,9.5"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="31" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-19" y="23" width="22" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(480, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-16 16,8 -16,8"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-16" y="20" width="16" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(480, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-9 9,4.5 -9,4.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-9" y="13" width="2" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(535, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-13 13,6.5 -13,6.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-13" y="17" width="10" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(535, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-13 13,6.5 -13,6.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-13" y="17" width="10" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(535, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(535, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-18 18,9 -18,9"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="30" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-18" y="22" width="20" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(535, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(535, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-18 18,9 -18,9"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="30" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-18" y="22" width="20" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(535, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-16 16,8 -16,8"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-16" y="20" width="16" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(590, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-11 11,5.5 -11,5.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-11" y="15" width="6" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(590, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(590, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(590, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-13 13,6.5 -13,6.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-13" y="17" width="10" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(590, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-11 11,5.5 -11,5.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-11" y="15" width="6" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(590, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(590, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-18 18,9 -18,9"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="30" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-18" y="22" width="20" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(645, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(645, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-13 13,6.5 -13,6.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-13" y="17" width="10" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(645, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-16 16,8 -16,8"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-16" y="20" width="16" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(645, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-11 11,5.5 -11,5.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-11" y="15" width="6" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(645, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-13 13,6.5 -13,6.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-13" y="17" width="10" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(645, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-17 17,8.5 -17,8.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-17" y="21" width="18" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(645, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-16 16,8 -16,8"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-16" y="20" width="16" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(700, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-16 16,8 -16,8"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-16" y="20" width="16" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(700, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(700, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(700, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(700, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-18 18,9 -18,9"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="30" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-18" y="22" width="20" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(700, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(700, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-15 15,7.5 -15,7.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-15" y="19" width="14" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(755, 40)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(755, 70)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(755, 100)">
+            <!-- Enemy ship -->
+            <polygon points="0,-18 18,9 -18,9"
+                     fill="#ffd700" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+              <text x="0" y="30" text-anchor="middle" fill="#ffd700" font-size="8" font-family="monospace">
+                BOSS
+              </text>
+            
+            <!-- Health indicator -->
+            <rect x="-18" y="22" width="20" height="3"
+                  fill="#ffd700" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(755, 130)">
+            <!-- Enemy ship -->
+            <polygon points="0,-17 17,8.5 -17,8.5"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-17" y="21" width="18" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(755, 160)">
+            <!-- Enemy ship -->
+            <polygon points="0,-16 16,8 -16,8"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-16" y="20" width="16" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(755, 190)">
+            <!-- Enemy ship -->
+            <polygon points="0,-12 12,6 -12,6"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-12" y="16" width="8" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+          <g class="enemy" transform="translate(755, 220)">
+            <!-- Enemy ship -->
+            <polygon points="0,-14 14,7 -14,7"
+                     fill="#ff6b6b" opacity="0.8">
+              <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </polygon>
+            
+            <!-- Health indicator -->
+            <rect x="-14" y="18" width="12" height="3"
+                  fill="#00ff00" rx="1"/>
+          </g>
+  </g>
+
+  <!-- Lasers -->
+  <g filter="url(#spaceGlow)">
+    
+            <line x1="100" y1="140"
+                  x2="150" y2="40"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="150" y2="70"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.1s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="150" y2="100"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.2s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="150" y2="160"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.4s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="150" y2="190"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.5s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="150" y2="220"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.6000000000000001s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="205" y2="40"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.3s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="205" y2="70"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.4s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="205" y2="100"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.5s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="205" y2="130"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.6000000000000001s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="205" y2="160"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.7s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="205" y2="190"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.8s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="205" y2="220"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.9000000000000001s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="260" y2="70"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.7s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="260" y2="100"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.8s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="260" y2="130"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="0.9s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="260" y2="160"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="1s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="260" y2="190"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="1.1s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="140"
+                  x2="260" y2="220"
+                  stroke="#ff00ff" stroke-width="2" opacity="0">
+              <animate attributeName="opacity" values="0;0.8;0" dur="0.5s"
+                       begin="1.2000000000000002s" repeatCount="indefinite"/>
+            </line>
+  </g>
+
+  <!-- Explosions -->
+  
+            <circle cx="150" cy="40" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.2s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.2s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="150" cy="70" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.30000000000000004s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.30000000000000004s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="150" cy="100" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.4s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.4s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="150" cy="160" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.6000000000000001s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.6000000000000001s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="150" cy="190" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.7s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.7s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="150" cy="220" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.8s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.8s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="205" cy="40" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.5s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.5s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="205" cy="70" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.6000000000000001s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.6000000000000001s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="205" cy="100" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.7s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.7s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="205" cy="130" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.8s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.8s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="205" cy="160" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.8999999999999999s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.8999999999999999s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="205" cy="190" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="1s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="1s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="205" cy="220" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="1.1s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="1.1s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="260" cy="70" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="0.8999999999999999s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="0.8999999999999999s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="260" cy="100" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="1s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="1s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="260" cy="130" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="1.1s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="1.1s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="260" cy="160" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="1.2s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="1.2s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="260" cy="190" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="1.3s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="1.3s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="260" cy="220" r="0" fill="#ff9500" opacity="0">
+              <animate attributeName="r" values="0;15;0" dur="0.8s"
+                       begin="1.4000000000000001s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0;0.7;0" dur="0.8s"
+                       begin="1.4000000000000001s" repeatCount="indefinite"/>
+            </circle>
+
+  <!-- Player Ship -->
+  <g filter="url(#spaceGlow)">
+    
+    <g class="player-ship" transform="translate(70, 140)">
+      <!-- Engine glow -->
+      <ellipse cx="-15" cy="0" rx="12" ry="6" fill="#00ffff" opacity="0.4">
+        <animate attributeName="rx" values="12;20;12" dur="0.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.3;0.6;0.3" dur="0.3s" repeatCount="indefinite"/>
+      </ellipse>
+
+      <!-- Main body -->
+      <polygon points="30,0 -10,-12 -10,12" fill="#00ffff" opacity="0.9"/>
+
+      <!-- Cockpit -->
+      <ellipse cx="10" cy="0" rx="8" ry="6" fill="#001133" stroke="#00ffff" stroke-width="1"/>
+
+      <!-- Wings -->
+      <polygon points="-5,-12 -15,-25 -15,-12" fill="#00ffff" opacity="0.7"/>
+      <polygon points="-5,12 -15,25 -15,12" fill="#00ffff" opacity="0.7"/>
+
+      <!-- Weapon tips -->
+      <circle cx="30" cy="0" r="3" fill="#ff00ff">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="0.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- HUD -->
+  
+    <!-- Score display -->
+    <rect x="10" y="10" width="180" height="50" fill="rgba(0,0,0,0.5)" rx="5" stroke="#00ffff" stroke-width="1"/>
+    <text x="20" y="30" fill="#00ffff" font-size="10" font-family="monospace">SCORE: 2,345</text>
+    <text x="20" y="48" fill="#ff00ff" font-size="10" font-family="monospace">COMBO: x49</text>
+
+    <!-- Level indicator -->
+    <rect x="700" y="10" width="190" height="50" fill="rgba(0,0,0,0.5)" rx="5" stroke="#00ffff" stroke-width="1"/>
+    <text x="710" y="30" fill="#00ffff" font-size="10" font-family="monospace">LEVEL: 7</text>
+    <text x="710" y="48" fill="#ffd700" font-size="10" font-family="monospace">
+      🏆 ELITE MODE
+    </text>
+
+    <!-- Title -->
+    <text x="450" y="30" text-anchor="middle" fill="#00ffff" font-size="14"
+          font-family="monospace" font-weight="bold">
+      🚀 CONTRIBUTION SPACE BATTLE
+      <animate attributeName="fill" values="#00ffff;#ff00ff;#00ffff" dur="3s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Warning for boss -->
+    
+      <rect x="350" y="250" width="200" height="25" fill="rgba(255,0,0,0.3)" rx="5">
+        <animate attributeName="opacity" values="0.3;0.7;0.3" dur="1s" repeatCount="indefinite"/>
+      </rect>
+      <text x="450" y="267" text-anchor="middle" fill="#ffd700" font-size="12" font-family="monospace" font-weight="bold">
+        ⚠️ BOSS APPROACHING ⚠️
+      </text>
+    
+  
+
+</svg>

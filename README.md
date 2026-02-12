@@ -191,13 +191,46 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
 
 ---
 
-## 🧠 Neural Network Activity
+## 🧠 Neural Activity Core
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/brain-activity.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/brain-core.svg" width="100%">
 </p>
 
+> 🧠 **Brain pulses based on total commits** • **Nodes glow based on daily activity** • **Streak = heartbeat speed**
+
 ---
+
+## 🚀 Space Battle Mode
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/space-battle.svg" width="100%">
+</p>
+
+> 🚀 **Spaceship moves across weekly rows** • **Contributions = enemies destroyed** • **Boss appears on long streaks**
+
+---
+
+## 🌌 Cyberpunk Matrix System
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/matrix-layer.svg" width="100%">
+</p>
+
+> 🌌 **Matrix rain background** • **Terminal stats overlay** • **Real-time system monitoring**
+
+---
+
+## ⚡ Power Level Meter
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kulkarnishub377/kulkarnishub377/main/output/power-meter.svg" width="100%">
+</p>
+
+> ⚡ **Dynamic power level** • **XP & Level progression** • **Achievement badges**
+
+---
+
 ## 📊 Contribution graph 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kulkarnishub377&theme=tokyo-night)
 
