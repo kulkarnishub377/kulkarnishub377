@@ -1,0 +1,12 @@
+{
+  "name": "brain-visualizer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Brain Contribution Visualizer for GitHub profile",
+  "scripts": {
+    "generate": "node scripts/generate-brain.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

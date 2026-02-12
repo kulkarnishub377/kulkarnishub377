@@ -30,6 +30,12 @@ async function fetchContributions() {
     body: JSON.stringify({ query: QUERY }),
   });
   const json = await res.json();
+  if (json.errors) {
+    throw new Error(`GraphQL error: ${json.errors[0].message}`);
+  }
+  if (!json.data || !json.data.user) {
+    throw new Error("Unexpected API response: user data not found");
+  }
   return json.data.user.contributionsCollection.contributionCalendar.weeks;
 }
 
