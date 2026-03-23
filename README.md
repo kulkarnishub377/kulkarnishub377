@@ -144,21 +144,6 @@ I am a **Software Developer** at **Arya Omnitalk**, orchestrating the convergenc
 
 ---
 
-
-
-<h2 align="center">🚀 Featured Deployments</h2>
-
-<div align="center">
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **🚔 Vehicle Detection System** | `Python` `YOLO` `OpenCV` | High-precision violation detection for highways without license plates. |
-| **🌾 Smart Irrigation** | `IoT` `Raspberry Pi` `AWS` | **SPPU Rank 2 Winner**. Reduced water wastage by **30%** using predictive analytics. |
-| **♻️ E-Waste Mgmt** | `Flask` `MongoDB` `Cloud` | SaaS platform for tracking e-waste with AI-powered categorization. |
-
-</div>
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
