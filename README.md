@@ -227,7 +227,7 @@
 
 <div align="center">
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-Document--AI---RAG--Pipeline-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kulkarnishub377/Document-AI--RAG-Pipeline)
+[![View on GitHub](https://img.shields.io/badge/GitHub-Document--AI---RAG--Pipeline-0d1117?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/kulkarnishub377/Document-AI--RAG-Pipeline](https://github.com/kulkarnishub377/Document-AI---RAG-Pipeline))
 
 </div>
 
