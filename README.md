@@ -109,7 +109,7 @@
 
 ### 🤖 AI · Machine Learning · Computer Vision
 
-<div align="center">
+<div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -126,7 +126,7 @@
 
 ### 🧬 Generative AI · LLMs · RAG · Document AI
 
-<div align="center">
+<div align="left">
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-6A0DAD?style=for-the-badge&logoColor=white)
@@ -140,7 +140,7 @@
 
 ### ⚙️ Backend · MLOps · DevOps
 
-<div align="center">
+<div align="left">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -157,7 +157,7 @@
 
 ### ☁️ Cloud Platforms
 
-<div align="center">
+<div align="left">
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -167,7 +167,7 @@
 
 ### 🔌 Edge AI & Embedded Hardware
 
-<div align="center">
+<div align="left">
 
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson_Nano_%7C_Xavier-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
@@ -178,7 +178,7 @@
 
 ### 💾 Databases & Caching
 
-<div align="center">
+<div align="left">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -190,7 +190,7 @@
 
 ### 🌐 Full Stack Development
 
-<div align="center">
+<div align="left">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -227,7 +227,7 @@
 
 <div align="center">
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-Document--AI---RAG--Pipeline-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kulkarnishub377/Document-AI---RAG-Pipeline)
+[![View on GitHub](https://img.shields.io/badge/GitHub-Document--AI---RAG--Pipeline-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kulkarnishub377/Document-AI--RAG-Pipeline)
 
 </div>
 
@@ -261,7 +261,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kulkarnishub377&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=0077b6&count_private=true" height="175" />
 &nbsp;
@@ -269,32 +269,15 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarnishub377&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=10" height="175" />
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kulkarnishub377&theme=tokyonight" height="175" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kulkarnishub377&theme=tokyonight&utcOffset=5.5" height="170" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kulkarnishub377&theme=tokyonight" height="170" />
 
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kulkarnishub377&theme=tokyonight" width="98%" />
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kulkarnishub377&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
 </div>
 
 ---
