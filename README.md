@@ -264,7 +264,6 @@
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kulkarnishub377&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=0077b6&count_private=true" height="175" />
-&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulkarnishub377&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=00b4d8&fire=ff6b35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=555555" height="175" />
 
 </div>
