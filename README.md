@@ -301,9 +301,8 @@
 | 🐍 Python Programming | GUVI | 2023 |
 | 🛰️ Geodata Processing using Python | ISRO | 2023 |
 | 🌐 Global Navigation Satellite System (GNSS) | ISRO | 2023 |
-| 📈 Advanced Excel | — | 2023 |
-| 💡 What is Business Analysis? | — | 2023 |
-| ⚙️ Industrial Electronics | — | 2023 |
+| 📈 Advanced Excel | MKCL | 2023 |
+| ⚙️ Industrial Electronics | Yash Infotech | 2023 |
 
 </div>
 
