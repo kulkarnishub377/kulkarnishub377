@@ -872,3 +872,4 @@ Commit #871 |  | Thu Apr  2 10:34:53 UTC 2026
 Commit #872 |  | Thu Apr  2 10:34:53 UTC 2026
 Commit #873 |  | Thu Apr  2 10:34:53 UTC 2026
 Commit #874 |  | Thu Apr  2 10:34:53 UTC 2026
+Commit #875 | Docs: updated change notes | Thu Apr  2 10:34:53 UTC 2026
