@@ -884,3 +884,4 @@ Commit #883 |  | Thu Apr  2 10:34:53 UTC 2026
 Commit #884 |  | Thu Apr  2 10:34:53 UTC 2026
 Commit #885 |  | Thu Apr  2 10:34:53 UTC 2026
 Commit #886 | Docs: updated change notes | Thu Apr  2 10:34:53 UTC 2026
+Commit #887 |  | Thu Apr  2 10:34:53 UTC 2026
