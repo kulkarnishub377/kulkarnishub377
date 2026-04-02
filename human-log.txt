@@ -1527,3 +1527,4 @@ Commit #1526 | Fix: minor adjustment to log tracking | Thu Apr  2 10:34:59 UTC 2
 Commit #1527 |  | Thu Apr  2 10:34:59 UTC 2026
 Commit #1528 |  | Thu Apr  2 10:34:59 UTC 2026
 Commit #1529 |  | Thu Apr  2 10:34:59 UTC 2026
+Commit #1530 | Docs: updated change notes | Thu Apr  2 10:34:59 UTC 2026
