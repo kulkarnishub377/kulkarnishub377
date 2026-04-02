@@ -608,3 +608,4 @@ Commit #607 |  | Thu Apr  2 10:34:51 UTC 2026
 Commit #608 |  | Thu Apr  2 10:34:51 UTC 2026
 Commit #609 |  | Thu Apr  2 10:34:51 UTC 2026
 Commit #610 | Docs: updated change notes | Thu Apr  2 10:34:51 UTC 2026
+Commit #611 |  | Thu Apr  2 10:34:51 UTC 2026
