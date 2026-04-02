@@ -509,3 +509,4 @@ Commit #508 |  | Thu Apr  2 10:34:50 UTC 2026
 Commit #509 |  | Thu Apr  2 10:34:50 UTC 2026
 Commit #510 | Polish: refined formatting | Thu Apr  2 10:34:50 UTC 2026
 Commit #511 |  | Thu Apr  2 10:34:50 UTC 2026
+Commit #512 | Docs: updated change notes | Thu Apr  2 10:34:50 UTC 2026
