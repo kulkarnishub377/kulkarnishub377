@@ -1,0 +1,49 @@
+name: Human-like 10 Commits
+
+on:
+  workflow_dispatch:   # Only runs manually
+
+permissions:
+  contents: write
+
+jobs:
+  batch_commits:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git identity
+        run: |
+          git config --global user.name "kulkarnishub377"
+          git config --global user.email "kulkarnishub377@gmail.com"
+
+      - name: Create 10 human-like commits
+        run: |
+          MESSAGES=(
+            "Refactor: improved logic flow"
+            "Update: added small improvements"
+            "Fix: minor adjustment to log tracking"
+            "Enhancement: cleaned up code structure"
+            "Docs: updated change notes"
+            "Chore: routine small update"
+            "Refactor: reorganized file content"
+            "WIP: small tweaks"
+            "Polish: refined formatting"
+            "Maintenance: regular code update"
+          )
+
+          for i in {1..1567}
+          do
+            MSG_INDEX=$(( RANDOM % 56 ))
+            MSG="${MESSAGES[$MSG_INDEX]}"
+
+            echo "Commit #$i | $MSG | $(date)" >> human-log.txt
+
+            git add human-log.txt
+            git commit -m "$MSG (#$i)"
+          done
+
+      - name: Push commits
+        run: git push
