@@ -303,3 +303,4 @@ Commit #302 |  | Thu Apr  2 10:34:48 UTC 2026
 Commit #303 |  | Thu Apr  2 10:34:48 UTC 2026
 Commit #304 |  | Thu Apr  2 10:34:48 UTC 2026
 Commit #305 |  | Thu Apr  2 10:34:48 UTC 2026
+Commit #306 | Docs: updated change notes | Thu Apr  2 10:34:48 UTC 2026
